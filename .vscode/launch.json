@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Q1_01_Knapsack_TopDown",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Q1_01_Knapsack_TopDown",
+            "projectName": "IntelliJ_6cd80f7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leetcode",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Leetcode",
+            "projectName": "IntelliJ_6cd80f7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1_01_Knapsack",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Q1_01_Knapsack",
+            "projectName": "IntelliJ_6cd80f7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1_Fractional_Knapsack",
+            "request": "launch",
+            "mainClass": "Greedy.Q1_Fractional_Knapsack",
+            "projectName": "IntelliJ_6cd80f7f"
+        }
+    ]
+}
